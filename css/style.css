@@ -687,7 +687,8 @@ table {
 			    content: "";
 			    position: absolute;
 			    top: -51px;
-			    left: 325px;
+			    left: 50%;
+    			    transform: translate(-50%,-50%);
 			    width: 120px;
 			    height: 9px;
 			    background: url(../images/Wave_icon_2.png);
@@ -761,7 +762,8 @@ table {
 			content: "";
 			position: absolute;
 			top:-95px;
-			left: 40%;
+			left: 50%;
+    			transform: translate(-50%,-50%);
 			width: 60px;
 			height: 60px;
 			background: url(../images/sprite/css_sprites.png) -120px -1px;
@@ -771,7 +773,8 @@ table {
 			content: "";
 			position: absolute;
 			top:-95px;
-			left: 40%;
+			left: 50%;
+    			transform: translate(-50%,-50%);
 			width: 60px;
 			height: 60px;
 			background: url(../images/sprite/css_sprites.png) 2px -1px;
@@ -781,7 +784,8 @@ table {
 			content: "";
 			position: absolute;
 			top:-95px;
-			left: 40%;
+			left: 50%;
+    			transform: translate(-50%,-50%);
 			width: 60px;
 			height: 60px;
 			background: url(../images/sprite/css_sprites.png) -245px -1px;
@@ -791,7 +795,8 @@ table {
 			content: "";
 			position: absolute;
 			top:-80px;
-			left: 40%;
+			left: 50%;
+    			transform: translate(-50%,-50%);
 			width: 60px;
 			height: 30px;
 			background: url(../images/sprite/css_sprites.png) -58px -1px;
@@ -801,7 +806,8 @@ table {
 			content: "";
 			position: absolute;
 			top:-95px;
-			left: 40%;
+			left: 50%;
+    			transform: translate(-50%,-50%);
 			width: 60px;
 			height: 60px;
 			background: url(../images/sprite/css_sprites.png) -180px -1px;
@@ -811,7 +817,8 @@ table {
 			content: "";
 			position: absolute;
 			top:-95px;
-			left: 40%;
+			left: 50%;
+    			transform: translate(-50%,-50%);
 			width: 60px;
 			height: 60px;
 			background: url(../images/sprite/css_sprites.png) -308px -1px;
